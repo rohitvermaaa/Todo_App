@@ -1,8 +1,6 @@
 
 # Python To-Do List Application
 
-![App Screenshot](screenshot.png)
-
 This is a simple To-Do List application built using Python and the tkinter library. It allows you to add and remove tasks from your to-do list.
 
 ## Features
