@@ -1,5 +1,4 @@
 
-```markdown
 # Python To-Do List Application
 
 ![App Screenshot](screenshot.png)
